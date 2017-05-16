@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C++ Source File">
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/storage-20a331/2.1.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/boost-abe3de/2.1.0</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/cpuid-4d8071/4.0.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/kodo-core-de4387/4.0.1/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/kodo-rlnc-7d74ae/4.0.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/meta-768c5a/2.1.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/sak-1bdcea/15.0.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/recycle-b2469b/2.0.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/hex-4d9037/3.0.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/endian-30a816/3.0.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/platform-bccd32/2.0.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/tables-c83c83/6.0.0/src</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/gtest-5c3bfe/3.0.0</includepath>
+<includepath>/home/nguyenvu/dev/kodo-fulcrum/bundle_dependencies/fifi-8960fd/24.0.0/src</includepath>
+
+</language>
+<language name="C Source File">
+<includepath>/usr/include/c++</includepath>
+<includepath>/usr/include</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+<includepath>/usr/include/c++</includepath>
+<includepath>/usr/include</includepath>
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C++ Source File">
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>
